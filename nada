@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ministério da Justiça|Nicolas files</title>
+</head>
+<body>
+    <h1>Nicolas</h1>
+    <p>Idade:16 anos<p>
+    <p>Nickname:Gatsu</p>
+    <p>Descrição:Um homem alto, elegante e forte, com elevada definição muscular e conhecido por lutar pela segurança dos alunos nas linhas frontais.</p>
+    <h1>Imagens Do Nicolas:</h1>
+    <img src="n1.jpg" width="800px" />
+    <img src="n2.jpg" width="800px" />
+    <hr />
+    <h1>Imagem da revolução da segurança dos alunos(Segurança de aguas santas ataca novamente!)</h1>
+    <img src="n3.jpg" width="800px" />
+    <h1>VIDEO</h1>
+    <video width="640" height="360" controls poster="">
+        <source src="provas.mov">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas2.mov">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas3.mov">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas4.mp4">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas4.1.mp4">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas5.mp4">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas6.mp4">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+    <video width="640" height="360" controls poster="">
+        <source src="provas7.mp4">
+        <!-- Mensagem para navegadores que não suportam HTML5 -->
+        O seu navegador não suporta a tag de vídeo HTML5.
+    </video>
+</body>
+</html>
